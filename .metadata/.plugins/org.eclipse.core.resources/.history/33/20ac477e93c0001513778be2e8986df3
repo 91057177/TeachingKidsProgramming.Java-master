@@ -1,0 +1,13 @@
+package org.teachingkidsprogramming.section01forloops;
+
+import org.teachingextensions.logo.Tortoise;
+
+public class SimpleSquare
+{
+  public static void main(String[] args) throws Exception
+  {
+    Tortoise.show();
+    Tortoise.setSpeed(10);
+    Tortoise.drawTortoise();
+  }
+}

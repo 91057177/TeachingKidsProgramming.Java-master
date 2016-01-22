@@ -1,0 +1,15 @@
+package org.teachingkidsprogramming;
+
+import org.teachingextensions.logo.Tortoise;
+
+public class expirement
+{
+  public static void main(String[] args)
+  {
+    for (int i = 0; i < 360; i++)
+    {
+      Tortoise.move(1);
+      Tortoise.turn(1);
+    }
+  }
+}

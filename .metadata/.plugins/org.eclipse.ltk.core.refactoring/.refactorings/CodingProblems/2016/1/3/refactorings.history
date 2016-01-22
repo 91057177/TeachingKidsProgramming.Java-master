@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;hello&apos; from expression &apos;&quot;Hello, World&quot;&apos;&#x0D;&#x0A;- Original project: &apos;CodingProblems&apos;&#x0D;&#x0A;- Variable name: &apos;hello&apos;&#x0D;&#x0A;- Destination method: &apos;sayHello.main()&apos;&#x0D;&#x0A;- Variable expression: &apos;&quot;Hello, World&quot;&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;hello&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;{sayHello.java" name="hello" replace="true" selection="96 14" stamp="1452703601434" version="1.0"/>
+</session>

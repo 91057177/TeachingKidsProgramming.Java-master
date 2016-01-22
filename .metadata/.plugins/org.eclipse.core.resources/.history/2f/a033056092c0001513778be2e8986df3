@@ -1,0 +1,12 @@
+package org.section01forloops;
+
+import org.teachingextensions.logo.Tortoise;
+
+public class expirement
+{
+  public static void main(String[] args)
+  {
+    Tortoise.move(1);
+    Tortoise.turn(1);
+  }
+}

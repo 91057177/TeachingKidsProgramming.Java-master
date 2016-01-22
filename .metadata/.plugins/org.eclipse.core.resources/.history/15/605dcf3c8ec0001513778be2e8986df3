@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+public class printNIntegerson10rows
+{
+  public static void main(String[] args)
+  {
+    System.out.print("Enter The number of integes you want:");
+    Scanner scan = new Scanner(System.in);
+    int N = scan.nextInt();
+    System.out.println();
+  }
+}

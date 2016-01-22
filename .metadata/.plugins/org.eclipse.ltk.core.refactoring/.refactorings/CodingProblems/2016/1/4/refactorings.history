@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private static void repeat()&apos; from &apos;DivisibilityBy5.main()&apos; to &apos;DivisibilityBy5&apos;&#x0D;&#x0A;- Original project: &apos;CodingProblems&apos;&#x0D;&#x0A;- Method name: &apos;repeat&apos;&#x0D;&#x0A;- Destination type: &apos;DivisibilityBy5&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;repeat&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;{DivisibilityBy5.java" name="repeat" replace="false" selection="113 240" stamp="1453227026045" version="1.0" visibility="2"/>
+</session>

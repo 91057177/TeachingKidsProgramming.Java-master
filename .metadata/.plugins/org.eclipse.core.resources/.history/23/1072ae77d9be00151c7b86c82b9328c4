@@ -1,0 +1,6 @@
+public class printNIntegerson10rows
+{
+  public static void main(String[] args)
+  {
+  }
+}

@@ -1,0 +1,13 @@
+package org.teachingkidsprogramming;
+
+import org.teachingextensions.logo.Tortoise;
+import org.teachingextensions.logo.utils.ColorUtils.PenColors;
+
+public class expirement
+{
+  public static void main(String[] args)
+  {
+    Tortoise.setSpeed(10);
+    Tortoise.drawShape(360, PenColors.Greens.Green, 1, 1);
+  }
+}

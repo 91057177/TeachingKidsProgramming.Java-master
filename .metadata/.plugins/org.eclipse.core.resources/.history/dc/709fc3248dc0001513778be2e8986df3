@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+public class printNIntegerson10rows
+{
+  public static void main(String[] args)
+  {
+    Scanner scan = new Scanner(System.in);
+    int N = scan.nextInt();
+    System.out.print("How many integers do you want to print?");
+    System.out.println();
+    for (int i = 1; i < N + 1; i++)
+    {
+      System.out.println(i + " ");
+    }
+  }
+}

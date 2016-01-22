@@ -1,0 +1,15 @@
+package org.teachingkidsprogramming.section01forloops;
+
+import org.teachingextensions.logo.Tortoise;
+import org.teachingextensions.logo.utils.ColorUtils.PenColors;
+import org.teachingextensions.logo.utils.LineAndShapeUtils.Circle;
+
+public class SimpleSquare
+{
+  public static void main(String[] args) throws Exception
+  {
+    Tortoise.show();
+    Circle circle = new Circle(75, PenColors.Greens.Green);
+    circle.setCenter(200, 200);
+  }
+}

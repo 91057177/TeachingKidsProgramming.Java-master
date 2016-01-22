@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.awt.Color"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.Colors"/>
+<fullyQualifiedTypeName name="org.teachingextensions.windows.MessageBox"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.ColorWheel"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.utils.MVCUtils.Viewer"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.utils.MVCUtils.Parser"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.Turtle"/>
+<fullyQualifiedTypeName name="org.teachingextensions.WindowUtils.MultiTurtleWindow"/>
+<fullyQualifiedTypeName name="com.sun.prism.shader.DrawCircle_Color_AlphaTest_Loader"/>
+<fullyQualifiedTypeName name="com.sun.prism.shader.DrawCircle_ImagePattern_AlphaTest_Loader"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.utils.LineAndShapeUtils.Circle"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.utils.ColorUtils.PenColors.Purples"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.utils.ColorUtils.PenColors.Whites"/>
+<fullyQualifiedTypeName name="org.teachingextensions.approvals.lite.util.NumberUtils"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.utils.ColorUtils.PenColors.Blues"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.utils.ColorUtils.PenColors.Reds"/>
+<fullyQualifiedTypeName name="org.teachingkidsprogramming.section08events.ConnectTheDots"/>
+<fullyQualifiedTypeName name="javafx.scene.layout.Background"/>
+<fullyQualifiedTypeName name="com.sun.corba.se.impl.protocol.giopmsgheaders.Message"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.utils.ColorUtils.ColorWheel"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="org.teachingextensions.WindowUtils.ProgramWindow"/>
+<fullyQualifiedTypeName name="javafx.scene.text.Text"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.utils.LineAndShapeUtils.Text"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.utils.ColorUtils.PenColors.Yellows"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.utils.EventUtils.MessageBox"/>
+<fullyQualifiedTypeName name="com.sun.org.apache.xerces.internal.util.SynchronizedSymbolTable"/>
+<fullyQualifiedTypeName name="org.teachingkidsprogramming.section09final.FizzBuzz"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="javafx.scene.shape.MoveTo"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.utils.ColorUtils.PenColors"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.utils.ColorUtils.PenColors.Greens"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.Tortoise"/>
+</qualifiedTypeNameHistroy>
